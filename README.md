@@ -1,2 +1,8 @@
-# pe-werkopdracht2
-GitHub repository voor werkopdracht 2
+# PE - Werkopdracht 2
+## Student
+Naam: [vul in]
+
+Nummer: [vul in]
+
+Email: [vul in]
+
